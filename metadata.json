@@ -1,0 +1,6 @@
+{
+  "name": "साई ऑनलाईन सेवा केंद्र",
+  "description": "साई ऑनलाईन सेवा केंद्र - अधिकृत पोर्टल लॉगिन",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
